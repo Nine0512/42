@@ -1,0 +1,1 @@
+find . -name "*42*" -size 42c
